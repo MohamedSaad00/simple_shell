@@ -369,3 +369,5 @@ Write a blog post describing step by step what happens when you type `ls -l *.c`
 When done, please add all urls below (blog post, LinkedIn post, etc.)
 
 #### Add URLs here:
+Mohamed Saad
+Mohamed Yehia
